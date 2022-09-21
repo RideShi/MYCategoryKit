@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - MYCategoryKit (0.1.0)
+  - MYCategoryKit (0.1.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  MYCategoryKit: 8f8816bd16e2345c8d6c44439e0cfb8de07c7dcf
+  MYCategoryKit: fe476750b695a4a4c7a2ee3b1965f6d7bb388465
 
 PODFILE CHECKSUM: 62cf50022098115cb7b3753433f14f9cf4755f30
 

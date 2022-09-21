@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIImage+UIImageExtras.h"
 
 FOUNDATION_EXPORT double MYCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char MYCategoryKitVersionString[];
